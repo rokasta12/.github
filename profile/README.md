@@ -8,7 +8,7 @@ Topluluk kanallarimiza katilmak icin:
  - [Trello](https://trello.com/invite/userworkspace18925297/ATTId48edcea4fdd3ba69cdf2afb77b35206CF14302D)
 
 ## Teknoloji
-- React 
+- React (Next.js) 
 - Tailwind
 - Nest.js
 - Mongodb
